@@ -1,0 +1,163 @@
+food,portion,calories,protein_g
+Vada pav,1 piece,290,7
+Poha,1 bowl,250,5
+Sabudana khichadi,1 bowl,350,4
+Veg manchurian,1 plate restaurant style,420,8
+Gobi manchurian,1 plate restaurant style,480,9
+Diet coke,1 can,5,0
+Pasta aglio olio,1 bowl,450,10
+Pasta arrabiata,1 bowl,420,11
+Gobi paratha,1 piece,220,6
+Aloo paratha,1 piece,260,6
+Thepla,1 piece,130,3
+Curd rice,1 bowl,300,8
+Rice,1 bowl cooked,200,4
+Rasam,1 bowl,60,2
+Rasam rice,1 bowl,280,5
+Sambar,1 bowl,140,6
+Sambar rice,1 bowl,320,8
+Dal khichadi,1 bowl,320,10
+Moong dal fry,1 bowl,220,11
+Mixed dal,1 bowl,220,10
+Toor dal,1 bowl,210,10
+Plain toor dal,1 bowl,180,9
+Mor kozhambu,1 bowl,180,5
+Mor kozhambu rice,1 bowl,350,7
+Maggi,1 packet prepared,385,8
+Samosa,1 piece,250,5
+Dhokla,4 pieces,180,8
+Khaman dhokla,4 pieces,200,9
+Thums Up,300 ml,135,0
+Veg bean tacos,2 tacos,350,10
+Veg burrito,1 regular burrito,550,14
+Veg burrito bowl,1 bowl,500,16
+Aloo wadi,4 pieces,220,5
+Misal pav,1 plate,450,12
+Margherita pizza,2 slices,500,18
+Usal,1 bowl,250,10
+Lemon butter sauce pasta,1 bowl,550,12
+Pav bhaji,1 plate,500,11
+Tava pulav,1 plate,420,8
+Veg biryani,1 plate,450,9
+Pani puri,6 pieces,320,6
+Ragda pattice,2 cutlets,450,11
+Sev puri,1 plate,350,7
+Ragda chaat,1 plate,400,10
+Dahi puri,6 pieces,380,8
+Aloo puri,1 plate,500,9
+Cheese toast,2 slices,350,12
+Butter popcorn,1 medium tub,450,6
+French fries,1 medium serving,365,4
+Aloo sabji,1 bowl,180,4
+Bhindi sabji,1 bowl,160,4
+Cauliflower sabji,1 bowl,140,4
+Khow suey,1 bowl,500,12
+Tea leaf salad,1 bowl,220,6
+Papaya salad,1 bowl,140,3
+Raw mango salad,1 bowl,150,2
+Tomato soup,1 bowl,120,3
+French onion soup,1 bowl,180,5
+Sweet corn soup,1 bowl,160,5
+Tom yum soup,1 bowl,120,5
+Manchow soup,1 bowl,180,5
+McAloo tikki burger,1 burger,340,8
+McDonalds regular fries,1 serving,230,3
+Green peas sundal,1 bowl,220,10
+White peas sundal,1 bowl,240,11
+Idli,1 piece,60,2
+White chutney,2 tbsp,80,1
+Green chutney,2 tbsp,30,1
+Sukha bhel,1 plate,300,7
+Gila bhel,1 plate,350,8
+Matki bhel,1 plate,320,10
+Tzatziki,2 tbsp,60,3
+Hummus,2 tbsp,90,3
+Pita,1 pita,170,5
+Falafel,4 pieces,320,12
+Rajma,1 bowl,240,11
+Rajma chawal,1 bowl,420,13
+Atta roti,1 piece,110,3
+Bajra roti,1 piece,130,4
+Jowar roti,1 piece,120,3
+Ragi roti,1 piece,120,3
+Chana sundal,1 bowl,240,11
+Chickpea sundal,1 bowl,240,11
+Hara bhara kabab,2 pieces,220,7
+Roasted papad,1 piece,35,2
+Fried papad,1 piece,80,2
+Masala papad without sev,1 piece,120,3
+Masala papad with sev,1 piece,180,4
+Veg toasted sandwich,1 sandwich,320,10
+Toasted masala sandwich,1 sandwich,380,11
+Lays,1 small packet,160,2
+Kurkure,1 small packet,170,2
+Rava upma,1 bowl,300,7
+Sheera,1 bowl,350,5
+Medu vada,1 piece,140,3
+Dal vada,2 pieces,220,7
+Masala dosa,1 dosa,420,9
+Pav bhaji dosa,1 dosa,500,11
+Cabbage poriyal,1 bowl,120,3
+Beans poriyal,1 bowl,130,4
+Carrot poriyal,1 bowl,120,3
+Mix veg poriyal,1 bowl,140,4
+Lemon rice,1 bowl,320,5
+Tamarind rice,1 bowl,340,5
+Filter coffee,1 cup,120,3
+Coffee with oat milk,1 cup,90,2
+Raita,1 bowl,120,5
+Boondi raita,1 bowl,180,5
+Mix veg raita,1 bowl,140,5
+Bhindi fry raita,1 bowl,170,5
+Cucumber raita,1 bowl,100,4
+Aviyal,1 bowl,180,5
+Poricha kootu,1 bowl,200,8
+Urulaikizhangu roast,1 bowl,250,4
+Besan cheela,2 pieces,280,12
+Rava dosa,1 dosa,350,7
+Ragi dosa,1 dosa,300,7
+Moong cheela,2 pieces,260,14
+Mixed lentil cheela,2 pieces,300,15
+Onion rava dosa,1 dosa,420,8
+Veg ramen,1 bowl,450,10
+Veg miso ramen,1 bowl,420,11
+Chana masala,1 bowl,260,11
+Chana masala rice,1 bowl,440,13
+Chole masala,1 bowl,280,12
+Chole masala with rice,1 bowl,460,14
+Dal makhani,1 bowl,320,11
+Dal makhani with rice,1 bowl,500,13
+Aloo gobi,1 bowl,220,5
+Malai kofta,1 bowl,420,10
+Matar paneer,1 bowl,340,16
+Vegetable dumplings,4 pieces,220,7
+Veg momos,4 pieces,200,7
+Crystal veg dumplings,4 pieces,180,6
+Veg sushi,4 pieces,180,4
+Veg california roll sushi,4 pieces,220,5
+Veg frankie,1 roll,350,9
+Veg schezwan frankie,1 roll,420,10
+Dum aloo,1 bowl,300,6
+Kadhi pakora,1 bowl,320,9
+Kadhi chawal,1 bowl,480,11
+Bhindi do pyaaza,1 bowl,200,5
+Sarson ka saag,1 bowl,220,7
+Plain uttapam,1 uttapam,280,6
+Onion uttapam,1 uttapam,320,7
+Mix veg uttapam,1 uttapam,350,8
+Bisi bele bath,1 bowl,350,10
+Ven pongal,1 bowl,360,9
+Sweet pongal,1 bowl,420,7
+Dahi vada,2 pieces,350,10
+Methi thepla,1 piece,140,4
+Gajar ka halwa,1 bowl,400,6
+Gulab jamun,2 pieces,300,5
+Jalebi,2 pieces,300,3
+Rasmalai,2 pieces,260,8
+Angoor rasmalai,6 pieces,320,9
+Kheer,1 bowl,280,7
+Cheesy nachos,1 plate,550,12
+Hakka noodles,1 plate,450,9
+Fried rice,1 plate,420,8
+Schezwan rice,1 plate,500,9
+Spring rolls,4 pieces,380,8
