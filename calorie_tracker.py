@@ -127,43 +127,34 @@ div[data-testid="stDataFrame"] {
 
 .stAlert {
     border-radius: 20px;
-}st.markdown("""
-<style>
+}
+/* MOBILE DROPDOWN FIX */
 
-/* Dropdown menu fix for mobile */
 div[data-baseweb="select"] > div {
     background-color: #FFFFFF !important;
     color: #2B2B2B !important;
     border-radius: 18px !important;
 }
 
-/* Dropdown selected value */
 div[data-baseweb="select"] span {
     color: #2B2B2B !important;
 }
 
-/* Dropdown menu popup */
 ul {
     background-color: #FFFFFF !important;
     color: #2B2B2B !important;
     border-radius: 18px !important;
 }
 
-/* Dropdown options */
 li {
     background-color: #FFFFFF !important;
     color: #2B2B2B !important;
 }
 
-/* Hover effect */
 li:hover {
     background-color: #F6CF71 !important;
     color: #2B2B2B !important;
-}
-
-</style>
-""", unsafe_allow_html=True)
-</style>
+}</style>
 """, unsafe_allow_html=True)
 
 if os.path.exists(FILE_NAME):
